@@ -26,7 +26,7 @@ int main() {
 
 	nextLine();
 
-	std::cout << "Please enter the file path where you woluld like the shards to be stored: \n";
+	std::cout << "Please enter the file path where you would like the shards to be stored: \n";
 	getline(std::cin, outputFilePath);
 
 	nextLine();
